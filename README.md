@@ -16,7 +16,7 @@ This repository contain 3 directories.
 In this directory are the code for  replicate the results of the paper Liquid-Based Pap Test Analysis Using Two-Stage CNNs https://doi.org/10.1016/j.ypmed.2004.03.040 
 
 # fine_tuning
-Code for the fine tuning process with the Resnet152 pretrained architecture. This was the best model found for this task.
+Code for the fine tuning process with the Resnet152 pretrained architecture. This was the best model found for this task. Before choosing resnet VGG16, efficienetb0, efficienetb3 and DenseNet201 were tested
 
 # train_model_afer_finetuning
 

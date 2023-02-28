@@ -6,6 +6,12 @@ According to the World Health Organization, cervical cancer is a significant hea
 To address this issue, this paper proposes a methodology that focuses on finding an effective convolutional neural network (CNN) model for analyzing digital pap smears. The approach involves two stages . In the first stage, different pre-trained models such as DenseNet, EfficientNet, ResNet, and VGG19 are used to classify four classes of cervical cells on high-resolution 
  cell images belonging to 460 patients. In the second stage, the best previous model is selected, and through fine-tuning techniques, the best hyperparameters are selected. This study uses different performance metrics for high-resolution classification, such as accuracy, sensitivity, precision, and specificity.
 
+This project is based on the classification of cancer cell images into 4 different types using transfer learning, as:
+
+* Negative intraepithelial lesion (NIL).
+* Low-grade squamous intraepithelial lesion (LSIL).
+* High-grade squamous intraepithelial lesion (HSIL).
+* Squamous cell carcinoma (SCC). The trainings were performed in Google Colab in its free version. The steps that
  
 
 ## Files

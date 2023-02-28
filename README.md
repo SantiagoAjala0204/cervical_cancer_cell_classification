@@ -18,6 +18,6 @@ In this directory are the code for  replicate the results of the paper Liquid-Ba
 # fine_tuning
 Code for the fine tuning process with the Resnet152 pretrained architecture. This was the best model found for this task.
 
-#train_model_afer_finetuning
+# train_model_afer_finetuning
 
 Corresponding code to train the after model to obtain the best combination of parameters with fine tuning.
